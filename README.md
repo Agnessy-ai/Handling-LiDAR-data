@@ -5,7 +5,7 @@ The goal of this project is to integrate multiple degradation indicators extract
 
 ## Key Features
 ✅ LiDAR Data Processing:
-Import, clean, and preprocess raw LiDAR point cloud data.
+Import, clean, and preprocess raw LiDAR point cloud data.  DATA AVAILABLE UPON REQUEST
 
 ✅ Topographic Analysis:
 Derive Digital Elevation Models (DEM), slope, aspect, and other terrain attributes.
