@@ -3,7 +3,7 @@ This project focuses on the development of a Composite Land Degradation Index (C
 
 The goal of this project is to integrate multiple degradation indicators extracted from LiDAR data—such as elevation changes, slope, vegetation height, surface roughness, and erosion risk—into a composite index that can effectively identify and quantify areas under varying degrees of land degradation.
 
-Key Features
+## Key Features
 ✅ LiDAR Data Processing:
 Import, clean, and preprocess raw LiDAR point cloud data.
 
@@ -25,7 +25,7 @@ Generate spatial maps of degradation zones for interpretation and decision-makin
 ✅ Export & Reporting:
 Export results for further GIS analysis or reporting.
 
-Tools & Technologies
+## Tools & Technologies
 🛰️ LiDAR (LAS/LAZ formats)
 
 🐍 Python (NumPy, Pandas, Matplotlib, Scikit-learn, etc.)
@@ -36,7 +36,7 @@ Tools & Technologies
 
 📊 QGIS/CloudCompare (optional for further visualization)
 
-Applications
+## Applications
 Land Degradation and Desertification Studies
 
 Erosion Risk Mapping
